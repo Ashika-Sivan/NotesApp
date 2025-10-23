@@ -12,8 +12,6 @@ const Navbar=()=>{
                     <span>New Note</span>
                     </Link>
                 </div>
-                    
-
             </div>
         </div>
          
